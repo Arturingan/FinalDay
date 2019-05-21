@@ -1,0 +1,44 @@
+html,body{
+
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 100% ;
+font-family: 'Numans', sans-serif;
+background-color: #202124 !important;
+color: white !important;
+
+
+}
+
+
+.card {
+    margin: 30px !important; 
+    margin-right: 20px;
+    background-color: #202124 !important;
+}
+
+.card:hover {
+    background-color: #4EFC0D !important;
+}
+
+.jumbotron {
+background-size: cover !important;
+background-repeat: no-repeat !important;
+height: 400px;
+margin: 100px;
+
+}
+
+.btn {
+    margin-top: 0px;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+
